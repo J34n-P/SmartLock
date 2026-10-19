@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SmartLock" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#1A237E</item>
+        <item name="colorPrimaryDark">#0D1440</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="android:windowBackground">#CFD8DC</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#757575</item>
+    </style>
+
+    <!-- Estilo personalizado para los diálogos -->
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">#F0F4F8</item>
+        <item name="colorAccent">#1A237E</item>
+        <item name="android:textColorPrimary">#000000</item>
+    </style>
+</resources>
